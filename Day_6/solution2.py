@@ -112,3 +112,5 @@ for orbit in SAN_path[1:]:
 
 print(f"YOU Jumps: {YOU_Jumps}")
 print(f"SAN Jumps: {SAN_Jumps}")
+
+print(f"Total Jumps: {YOU_Jumps+SAN_Jumps}")
